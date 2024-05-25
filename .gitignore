@@ -1,1 +1,6 @@
 build/
+world/CMakeCache.txt
+world/CMakeFiles/
+world/Makefile
+world/cmake_install.cmake
+world/libwelcome_message.so
